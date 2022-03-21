@@ -1,0 +1,4 @@
+
+2022-1-02 10:13:36 - Getting uploads directory failed. Error given: Unable to create directory wp-content/uploads/2022/01. Is its parent directory writable by the server?
+2022-1-02 10:13:36 - Getting uploads directory failed. Error given: Unable to create directory wp-content/uploads/2022/01. Is its parent directory writable by the server?
+2022-3-21 12:21:38 - Cache directory is not writeable due to filesystem error. Error given: FTP hostname is required

@@ -1,0 +1,6 @@
+Mar 21 2022 11:25:44
+{"type":8,"message":"fwrite(): write of 276 bytes failed with errno=28 No space left on device","file":"\/var\/www\/html\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","line":1401}
+
+Mar 21 2022 11:26:00
+{"Number":8,"Message":"fwrite(): write of 8192 bytes failed with errno=28 No space left on device","File":"\/var\/www\/html\/wordpress\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":96}
+
